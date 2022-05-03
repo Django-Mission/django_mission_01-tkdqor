@@ -1,6 +1,6 @@
 # 1차 미션
 
-## Basic 과제
+## :pushpin: Basic 과제
 - **Basic 디렉터리 - first-django 디렉터리 내부에 Basic과제 수행**
 
 - **로또 번호 추출기 화면**
@@ -13,7 +13,7 @@
 
 
 * * *
-## Challenge 과제
+## :pushpin: Challenge 과제
 - **Challenge 디렉터리 - first-django 디렉터리 내부에 Challenge과제 수행**
 
 - **로또 번호 추출기 입력 페이지 화면**
